@@ -11,3 +11,4 @@ The songs from these playlists will be compared in terms of energy, tempo, valen
 A typical song from summer playlists is "Walking on sunshine" by Katrina & The waves, since it is energetic, happy and has a high tempo. A more atypical song currently present in winter playlists is "Head & Heart" by Joel Corry and MNEK, which probably has high scores for dancability, energy and tempo.
 
 TLDR: Do songs in Spotify playlists specifially made for summer and winter reflect the general characteristics of people's mood in summer and winter?
+testline
